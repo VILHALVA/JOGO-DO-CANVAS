@@ -23,4 +23,3 @@ Este é um jogo simples usando o elemento canvas do HTML5 e JavaScript. Aqui est
 ## CREDITOS:
 - [PROJETO CRIADO PELO "gustavoSoriano"](https://github.com/gustavoSoriano/game-canvas)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
